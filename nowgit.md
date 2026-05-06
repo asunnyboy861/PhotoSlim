@@ -15,9 +15,9 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/PhotoSlim/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/PhotoSlim/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/PhotoSlim/privacy.html | ⏳ Pending |
+| Landing Page | https://asunnyboy861.github.io/PhotoSlim/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/PhotoSlim/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/PhotoSlim/privacy.html | ✅ Active |
 
 **Note**: Terms of Use not required for Non-Consumable IAP (one-time purchase) apps. Only Support + Privacy Policy needed.
 
